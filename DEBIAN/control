@@ -1,5 +1,5 @@
 Package: ksud
-Version: 0.1&UNOFFICAL
+Version: 0.1-UNOFFICAL
 Architecture: amd64
 Maintainer: luyanci
 Description: KernelSU Command app
